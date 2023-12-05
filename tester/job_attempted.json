@@ -1,0 +1,16 @@
+{
+    "AttemptId": "04592726141831720420",
+    "JobId": "02980093228370618685",
+    "Attempter": "5HKmhgssTaohnXy2hxn8x5i98a21LG8muV4e3hTAcETjPgvf",
+    "PatchFileUrl": "https://gist.githubusercontent.com/garrettmaring/33797312f140163e60072d0f9252f73b/raw/fe69585c28094c5cd2f69e77e0e633907ae332fb/86ce09b.patch",
+    "SnapshotOn": {
+        "Number": "00000000000001516757",
+        "DateTime": "2023-06-06T18:43:00.0210000Z"
+    },
+    "DispatchedOn": "2023-06-06T18:43:14.1960871Z",
+    "@metadata": {
+        "@collection": "JobAttemptedSnapshots",
+        "Raven-Clr-Type": "Engi.Substrate.Jobs.JobAttemptedSnapshot, Engi.Substrate",
+        "@flags": "FromReplication"
+    }
+}

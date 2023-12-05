@@ -1,0 +1,9 @@
+{
+    "Address": "5F7GV7DTZUr9p2eJZzdjd9mnzJZvjoJic4Po3pBtLzJMAPAA",
+    "UserId": "users/320-A",
+    "@metadata": {
+        "@collection": "UserAddressReferences",
+        "Raven-Clr-Type": "Engi.Substrate.Identity.UserAddressReference, Engi.Substrate",
+        "@flags": "FromClusterTransaction"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "Email": "tj@engi.network",
+    "UserId": "users/320-A",
+    "@metadata": {
+        "@collection": "UserEmailReferences",
+        "Raven-Clr-Type": "Engi.Substrate.Identity.UserEmailReference, Engi.Substrate",
+        "@flags": "FromClusterTransaction"
+    }
+}

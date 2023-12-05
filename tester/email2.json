@@ -1,0 +1,9 @@
+{
+    "Email": "davie@engi.network",
+    "UserId": "users/322-A",
+    "@metadata": {
+        "@collection": "UserEmailReferences",
+        "Raven-Clr-Type": "Engi.Substrate.Identity.UserEmailReference, Engi.Substrate",
+        "@flags": "FromClusterTransaction"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "JobAttemptedSnapshotId": "JobAttemptedSnapshots/04592726141831720420",
+    "EngineResult": {
+        "Tests": [
+            {
+                "Id": "tests/test_wallet_change_owner.py::test_should_change_owner",
+                "Result": "Passed",
+                "FailedResultMessage": null
+            }
+        ]
+    },
+    "SolutionId": null,
+    "ResultHash": null,
+    "ProcessedOn": null,
+    "SentryId": null,
+    "@metadata": {
+        "@collection": "SolveJobCommands",
+        "Raven-Clr-Type": "Engi.Substrate.Server.Async.SolveJobCommand, Engi.Substrate.Server",
+        "@flags": "FromReplication"
+    }
+}

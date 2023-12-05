@@ -1,0 +1,50 @@
+{
+    "Email": "davie@engi.network",
+    "Address": "5DAAnrj7VHTznn2AWBemMuyBwZWs6FNFjdyVXUeYum3PTXFy",
+    "Display": "SBFs fun-fund",
+    "ProfileImageUrl": null,
+    "FreelancerSettings": null,
+    "BusinessSettings": null,
+    "EmailSettings": {
+        "WeeklyNewsletter": false,
+        "JobAlerts": false,
+        "TechnicalUpdates": false
+    },
+    "KeypairPkcs8": null,
+    "SystemRoles": [],
+    "Tokens": [
+        {
+            "$type": "Engi.Substrate.Identity.EmailConfirmationToken, Engi.Substrate",
+            "Id": "4b79c1d8-54ea-46a6-9231-7319707bae0a",
+            "Type": "EmailConfirmationToken",
+            "Value": "bd43e3ed7c7f4fdb8954e062a2de58a2",
+            "CreatedOn": "2023-04-11T20:36:51.9397240Z",
+            "ExpiresOn": null
+        }
+    ],
+    "CreatedOn": "2023-04-11T20:36:51.9397268Z",
+    "EmailConfirmedOn": null,
+    "GithubEnrollments": {
+        "37036747": {
+            "InstallationId": 37036747,
+            "CreatedOn": "2022-12-03T18:19:39.4048194Z",
+            "Owner": {
+                "Login": "tjsharp1",
+                "AvatarUrl": "https://avatars.githubusercontent.com/u/84343342?v=4"
+            },
+            "Repositories": [
+                {
+                    "Id": 634908567,
+                    "Name": "demo-secrets-rust-test-json-data",
+                    "FullName": "tjsharp1/demo-secrets-rust-test-json-data",
+                    "IsPrivate": false
+                }
+            ]
+        }
+    },
+    "@metadata": {
+        "@collection": "Users",
+        "Raven-Clr-Type": "Engi.Substrate.Identity.User, Engi.Substrate",
+        "@flags": "FromClusterTransaction"
+    }
+}
