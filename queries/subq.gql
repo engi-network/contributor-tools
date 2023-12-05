@@ -1,0 +1,1 @@
+{"query": "query { submissions(query: { skip: 0, limit: 25, jobId: 5569940640479456012 }) { items { attemptId status attempt { status tests { id result } } solve { status } } } }", "variables": {}}
